@@ -1,0 +1,17 @@
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\bin\Debug\net6.0-windows\CalculForm(onlynum).exe
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\bin\Debug\net6.0-windows\CalculForm(onlynum).deps.json
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\bin\Debug\net6.0-windows\CalculForm(onlynum).runtimeconfig.json
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\bin\Debug\net6.0-windows\CalculForm(onlynum).dll
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\bin\Debug\net6.0-windows\CalculForm(onlynum).pdb
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).csproj.AssemblyReference.cache
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm_onlynum_.Form1.resources
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).csproj.GenerateResource.cache
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).AssemblyInfoInputs.cache
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).AssemblyInfo.cs
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).csproj.CoreCompileInputs.cache
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).dll
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\refint\CalculForm(onlynum).dll
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).pdb
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\CalculForm(onlynum).genruntimeconfig.cache
+C:\Users\lcg80\source\repos\CalculForm(onlynum)\CalculForm(onlynum)\obj\Debug\net6.0-windows\ref\CalculForm(onlynum).dll
