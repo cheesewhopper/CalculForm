@@ -40,11 +40,6 @@ namespace CalculForm_onlynum_
             {
                 NumScreen.Text = NumScreen.Text + num;
             }
-
-           /* if (NumScreen.Text == "0")
-                NumScreen.Text = num;
-            else
-                NumScreen.Text = NumScreen.Text + num;*/
         }
 
         private void NbPlus_Click(object sender, EventArgs e)
